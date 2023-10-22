@@ -55,7 +55,7 @@ This is a back-end server for an e-commerce application built using Express.js, 
 ```bash
 Please see the steps mentioned aboved followed:
 ```
-[Video 📽️]()
+[Video 📽️](https://watch.screencastify.com/v/iTuRM2rVIffXmzebPDFk)
 
 ## Database Schema
 The database contains the following models and their properties:
