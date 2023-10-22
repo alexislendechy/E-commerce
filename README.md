@@ -37,7 +37,7 @@ This is a back-end server for an e-commerce application built using Express.js, 
 5. Set up your MySQL database by running the schema file:
     ```sh
     mysql -u root -p
-    sourcedb/schema.sql;
+    source db/schema.sql;
     exit
 6. Seed your database with initial data:
     ```sh
