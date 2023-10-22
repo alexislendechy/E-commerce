@@ -25,10 +25,10 @@ This is a back-end server for an e-commerce application built using Express.js, 
    git clone https://github.com/alexislendechy/E-commerce
 2. Navigate to the project directory:
    ```sh
-   cd E-commerce
+   cd E-commerce/Develop
 3. Install dependencies using npm:
     ```sh
-    npm install
+    npm install 
 4. Create a .env file in the root directory with the following content:
     ```sh
     DB_NAME='ecommerce_db'
@@ -36,7 +36,9 @@ This is a back-end server for an e-commerce application built using Express.js, 
     DB_PASSWORD='<your-mysql-password>'
 5. Set up your MySQL database by running the schema file:
     ```sh
-    npm run schema
+    mysql -u root -p
+    sourcedb/schema.sql;
+    exit
 6. Seed your database with initial data:
     ```sh
     npm run seed
