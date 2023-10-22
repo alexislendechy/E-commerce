@@ -1,5 +1,7 @@
 # E-commerce Back-End
 
+[![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit/)
+
 ## Table of Contents
 - [Description](#description)
 - [Technologies Used](#technologies-used)
@@ -49,6 +51,12 @@ This is a back-end server for an e-commerce application built using Express.js, 
 * The server will start, and you can make API requests to interact with the database using tools like Insomnia Core or Postman.
 * The server will listen on the specified port (default is 3001).
 * Use the provided API routes to manage categories, products, and tags.
+
+```bash
+Please see the steps mentioned aboved followed:
+```
+[Video 📽️]()
+
 ## Database Schema
 The database contains the following models and their properties:
 
